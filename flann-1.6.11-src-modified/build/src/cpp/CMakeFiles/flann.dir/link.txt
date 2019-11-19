@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libflann.so.1.6 -o ../../lib/libflann.so.1.6.11  -Wl,-whole-archive ../../lib/libflann_s.a -Wl,-no-whole-archive 

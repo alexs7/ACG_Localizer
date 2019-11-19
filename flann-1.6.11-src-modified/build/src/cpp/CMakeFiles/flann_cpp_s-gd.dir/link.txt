@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libflann_cpp_s-gd.a  CMakeFiles/flann_cpp_s-gd.dir/flann/flann_cpp.cpp.o CMakeFiles/flann_cpp_s-gd.dir/flann/nn/index_testing.cpp.o CMakeFiles/flann_cpp_s-gd.dir/flann/util/random.cpp.o CMakeFiles/flann_cpp_s-gd.dir/flann/util/logger.cpp.o CMakeFiles/flann_cpp_s-gd.dir/flann/util/saving.cpp.o
+/usr/bin/ranlib ../../lib/libflann_cpp_s-gd.a
